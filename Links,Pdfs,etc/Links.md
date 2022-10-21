@@ -12,3 +12,7 @@
 
 - ##### [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso]([Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.pptx - Google Drive](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view))
 
+- ##### [Entendendo Comunicação Client x Server]([[Dio\] Entendendo Comunicação Client x Server.pptx (sharepoint.com)](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EWgg3UxUJt1GhLwXu6Z0L1cB7EhiHOoMQ-8vECmYXzDwYA?e=KTRDY4))
+
+
+
